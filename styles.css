@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+    font-family: Acme;
+    color: #ff0000;
+    text-shadow: 2px 11px 10px black;
+    background: linear-gradient(#16007a, #7a007a, #a100f2);
+}
+
+h1 {
+    font-size: 39px;
+}
+
+h2 {
+    font-size: 31px;
+}
+
+p {
+    font-size: 25px;
+    
+}
+
+img {
+    width: 200px;
+    border: 7px solid #ff0000;
+    border-radius: 50%;
+}
+
+
+.section {
+    margin: 20px auto;
+}
+
+.img-gif {
+    width: 300px;
+    height: 300px;
+    border: 7px solid #ff0000;
+    border-radius: 6px;
+}
+
+
+
+
+
+
+/* 
+Add the footer paragraph according to the design. 
+Configure the anchor tag to open the link in a new tab.
+Forgotten how to do it? Google it! 
+
+Link: 
+https://scrimba.com/learn/htmlandcss
+
+Text:
+Want to create your own Birthday GIFt site? Take this HTML & CSS course.
+*/
